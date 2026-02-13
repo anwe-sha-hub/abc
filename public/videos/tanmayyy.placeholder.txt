@@ -1,0 +1,11 @@
+This is a placeholder. Replace this file with your actual tanmayyy.mp4.
+
+To add the real file on Windows (example):
+
+copy "C:\path\to\tanmayyy.mp4" "c:\Users\KIIT\OneDrive\ドキュメント\loveeee\@latest\public\videos\tanmayyy.mp4"
+
+After adding the video, run:
+
+npm run dev
+
+Then open the dev URL shown by Vite to view the page and play the video.
